@@ -1,7 +1,7 @@
 ﻿var dliny = [5,4,6,3,6,6,3,5];
-var arrayA=["a","b","c","d","e","j","k","l"];
+var arrayA = ["a","b","c","d","e","j","k","l"];
 
-document.write('<div id="all">'+'<form id="myCros">');
+document.write('<div id="all">' + '<form id="myCros">');
 
 for (t = 0; t < 8; t++) {
     var so = String(arrayA[t]);
